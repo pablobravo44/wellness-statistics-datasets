@@ -1,0 +1,450 @@
+{
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Running Fácil — https://running-facil.com/estadisticas/",
+    "source": "https://running-facil.com/estadisticas/",
+    "computedBy": "content-hub stats-dataset",
+    "kind": "serp",
+    "network": "wellness",
+    "site": "running-facil.com",
+    "computedAt": "2026-09-07T17:01:35.614Z",
+    "retrievedAt": "2026-09-07",
+    "lang": "es-ES",
+    "queries": 30,
+    "perQuery": 10,
+    "n": 248,
+    "nFetched": 223,
+    "nBlocked": 23,
+    "nUnknown": 2,
+    "yearInTitlePct": 13,
+    "currentYearInTitlePct": 12,
+    "pricesShownPct": 36,
+    "visibleDatePct": 26,
+    "comparisonTablePct": 1,
+    "faqPct": 1,
+    "wordCount": {
+        "n": 220,
+        "median": 1814,
+        "q1": 1099,
+        "q3": 2757,
+        "min": 85,
+        "max": 8020
+    },
+    "pageType": {
+        "guide": {
+            "n": 94,
+            "pct": 42
+        },
+        "listicle": {
+            "n": 33,
+            "pct": 15
+        },
+        "category": {
+            "n": 27,
+            "pct": 12
+        },
+        "news": {
+            "n": 18,
+            "pct": 8
+        },
+        "other": {
+            "n": 8,
+            "pct": 4
+        },
+        "product": {
+            "n": 6,
+            "pct": 3
+        },
+        "study": {
+            "n": 5,
+            "pct": 2
+        },
+        "tool": {
+            "n": 4,
+            "pct": 2
+        },
+        "forum": {
+            "n": 3,
+            "pct": 1
+        }
+    },
+    "domainType": {
+        "retailer": {
+            "n": 50,
+            "pct": 22
+        },
+        "brand": {
+            "n": 47,
+            "pct": 21
+        },
+        "media": {
+            "n": 45,
+            "pct": 20
+        },
+        "blog": {
+            "n": 24,
+            "pct": 11
+        },
+        "institution": {
+            "n": 14,
+            "pct": 6
+        },
+        "other": {
+            "n": 9,
+            "pct": 4
+        },
+        "marketplace": {
+            "n": 6,
+            "pct": 3
+        },
+        "forum": {
+            "n": 3,
+            "pct": 1
+        }
+    },
+    "distinctDomains": 136,
+    "topDomains": [
+        {
+            "domain": "runnersworld.com",
+            "n": 16
+        },
+        {
+            "domain": "nike.com",
+            "n": 9
+        },
+        {
+            "domain": "i-run.es",
+            "n": 7
+        },
+        {
+            "domain": "decathlon.es",
+            "n": 7
+        },
+        {
+            "domain": "runnea.com",
+            "n": 6
+        },
+        {
+            "domain": "runnerpro.app",
+            "n": 6
+        },
+        {
+            "domain": "brooksrunning.com",
+            "n": 6
+        },
+        {
+            "domain": "runrepeat.com",
+            "n": 5
+        },
+        {
+            "domain": "facebook.com",
+            "n": 5
+        },
+        {
+            "domain": "soymaratonista.com",
+            "n": 5
+        }
+    ],
+    "byQuery": [
+        {
+            "query": "running estadísticas 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 20,
+            "pricesShownPct": 0,
+            "medianWords": 1365,
+            "topPageType": null,
+            "distinctDomains": 9
+        },
+        {
+            "query": "estadísticas running España",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 11,
+            "pricesShownPct": 11,
+            "medianWords": 1628,
+            "topPageType": "study",
+            "distinctDomains": 9
+        },
+        {
+            "query": "running tendencias 2026",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 80,
+            "pricesShownPct": 40,
+            "medianWords": 1890,
+            "topPageType": "news",
+            "distinctDomains": 9
+        },
+        {
+            "query": "datos running España",
+            "n": 5,
+            "nFetched": 3,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 0,
+            "medianWords": 1126,
+            "topPageType": null,
+            "distinctDomains": 5
+        },
+        {
+            "query": "cuántos corredores hay en España",
+            "n": 9,
+            "nFetched": 9,
+            "yearInTitlePct": 22,
+            "pricesShownPct": 0,
+            "medianWords": 676,
+            "topPageType": "news",
+            "distinctDomains": 9
+        },
+        {
+            "query": "running popular España cifras",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 10,
+            "pricesShownPct": 0,
+            "medianWords": 1448,
+            "topPageType": "news",
+            "distinctDomains": 10
+        },
+        {
+            "query": "cuánto cuesta empezar a correr",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 14,
+            "pricesShownPct": 29,
+            "medianWords": 1830,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "cuánto cuestan unas zapatillas de running",
+            "n": 8,
+            "nFetched": 7,
+            "yearInTitlePct": 25,
+            "pricesShownPct": 86,
+            "medianWords": 1379,
+            "topPageType": "category",
+            "distinctDomains": 8
+        },
+        {
+            "query": "precio medio zapatillas running",
+            "n": 9,
+            "nFetched": 8,
+            "yearInTitlePct": 33,
+            "pricesShownPct": 63,
+            "medianWords": 2621,
+            "topPageType": "category",
+            "distinctDomains": 9
+        },
+        {
+            "query": "empezar a correr desde cero",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 14,
+            "pricesShownPct": 43,
+            "medianWords": 3131,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "plan para empezar a correr principiantes",
+            "n": 8,
+            "nFetched": 7,
+            "yearInTitlePct": 13,
+            "pricesShownPct": 29,
+            "medianWords": 1795,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "plan 5k principiantes",
+            "n": 10,
+            "nFetched": 8,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 25,
+            "medianWords": 1747,
+            "topPageType": "guide",
+            "distinctDomains": 10
+        },
+        {
+            "query": "plan 10k principiantes",
+            "n": 7,
+            "nFetched": 5,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 40,
+            "medianWords": 3098,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "zapatillas running principiantes",
+            "n": 8,
+            "nFetched": 6,
+            "yearInTitlePct": 13,
+            "pricesShownPct": 67,
+            "medianWords": 4328,
+            "topPageType": "listicle",
+            "distinctDomains": 8
+        },
+        {
+            "query": "zapatillas running hombre baratas",
+            "n": 10,
+            "nFetched": 8,
+            "yearInTitlePct": 20,
+            "pricesShownPct": 88,
+            "medianWords": 1624,
+            "topPageType": "category",
+            "distinctDomains": 9
+        },
+        {
+            "query": "zapatillas running mujer principiantes",
+            "n": 10,
+            "nFetched": 7,
+            "yearInTitlePct": 30,
+            "pricesShownPct": 57,
+            "medianWords": 1907,
+            "topPageType": "listicle",
+            "distinctDomains": 10
+        },
+        {
+            "query": "drop zapatillas running",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 10,
+            "pricesShownPct": 50,
+            "medianWords": 2029,
+            "topPageType": "guide",
+            "distinctDomains": 9
+        },
+        {
+            "query": "reloj gps running barato",
+            "n": 8,
+            "nFetched": 5,
+            "yearInTitlePct": 38,
+            "pricesShownPct": 80,
+            "medianWords": 3427,
+            "topPageType": "listicle",
+            "distinctDomains": 8
+        },
+        {
+            "query": "calcetines running",
+            "n": 9,
+            "nFetched": 8,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 75,
+            "medianWords": 1646,
+            "topPageType": "category",
+            "distinctDomains": 9
+        },
+        {
+            "query": "ropa para correr principiantes",
+            "n": 10,
+            "nFetched": 7,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 57,
+            "medianWords": 1501,
+            "topPageType": "guide",
+            "distinctDomains": 9
+        },
+        {
+            "query": "cuántos días correr a la semana",
+            "n": 6,
+            "nFetched": 5,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 20,
+            "medianWords": 1376,
+            "topPageType": "other",
+            "distinctDomains": 6
+        },
+        {
+            "query": "qué comer antes de correr",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 13,
+            "medianWords": 1776,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "correr en ayunas",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 0,
+            "medianWords": 1544,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "lesiones running principiantes",
+            "n": 8,
+            "nFetched": 8,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 38,
+            "medianWords": 1632,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "cadencia al correr",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 57,
+            "medianWords": 2224,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "zonas de frecuencia cardiaca correr",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 43,
+            "medianWords": 1563,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "mejor hora para correr",
+            "n": 10,
+            "nFetched": 10,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 30,
+            "medianWords": 1741,
+            "topPageType": "guide",
+            "distinctDomains": 8
+        },
+        {
+            "query": "correr con calor",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 14,
+            "medianWords": 1905,
+            "topPageType": "listicle",
+            "distinctDomains": 7
+        },
+        {
+            "query": "técnica de carrera principiantes",
+            "n": 7,
+            "nFetched": 7,
+            "yearInTitlePct": 14,
+            "pricesShownPct": 14,
+            "medianWords": 2754,
+            "topPageType": "guide",
+            "distinctDomains": 7
+        },
+        {
+            "query": "cinta de correr o asfalto",
+            "n": 6,
+            "nFetched": 5,
+            "yearInTitlePct": 0,
+            "pricesShownPct": 40,
+            "medianWords": 2105,
+            "topPageType": "guide",
+            "distinctDomains": 6
+        }
+    ],
+    "method": "Page-one results (10 per query) for 30 queries fetched on 2026-09-07 through the hub search layer; each page classified by type and measured (word count, year in title, prices shown, visible date). Blocked/unknown fetches are excluded from page-level rates."
+}

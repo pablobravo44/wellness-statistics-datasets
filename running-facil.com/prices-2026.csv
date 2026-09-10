@@ -1,0 +1,12 @@
+metric,value,n,unit,retrievedAt,method
+overall.n,15,15,count,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.median,34.95,15,EUR,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.mean,48.68,15,EUR,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.q1,12.55,15,EUR,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.q3,54.45,15,EUR,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.min,6.49,15,EUR,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.max,148,15,EUR,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.under20Pct,33,15,%,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.under50Pct,67,15,%,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+overall.under100Pct,80,15,%,2026-08-18,"Prices read from the site's Amazon price cache (Creators API), one price per tracked product, snapshot 2026-08-18. Aggregates only; per-product prices are never published from this dataset."
+_license,https://creativecommons.org/licenses/by/4.0/,,,,"CC BY 4.0 — cita running-facil.com con un enlace a https://running-facil.com/estadisticas/"
