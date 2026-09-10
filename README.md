@@ -7,7 +7,7 @@ Datos propios publicados por los sitios de la red (15 dominios) con licencia [CC
 ### [Estadísticas de running en España 2026](https://running-facil.com/estadisticas/)
 
 - Página con la versión vigente, el método («Cómo hemos contado») y la caja de cita: **[https://running-facil.com/estadisticas/](https://running-facil.com/estadisticas/)**
-- Twins en el propio sitio: [https://running-facil.com/estadisticas/datos/](https://running-facil.com/estadisticas/)
+- Descargas (CSV/JSON) en el propio sitio: [https://running-facil.com/estadisticas/#descarga-datos](https://running-facil.com/estadisticas/#descarga-datos)
 - Archivos en este repositorio:
   - [prices-2026.csv](running-facil.com/prices-2026.csv)
   - [prices-2026.json](running-facil.com/prices-2026.json)
@@ -42,6 +42,20 @@ Cada una tiene un fragmento «Insertar» con el enlace visible a la fuente.
 - [running-facil.com/herramientas/calculadora-ritmo/](https://running-facil.com/herramientas/calculadora-ritmo/)
 - [sal-marina.com/herramientas/conversor-sal-sodio/](https://sal-marina.com/herramientas/conversor-sal-sodio/)
 - [te-matcha.com/herramientas/calculadora-dosis-matcha/](https://te-matcha.com/herramientas/calculadora-dosis-matcha/)
+
+## Directorios locales por provincia
+
+Cada sitio publica un directorio de negocios por provincia y municipio (datos de Google Maps, ordenados por reseñas, sin pago). Cada ficha ofrece un distintivo «recomendado en <ciudad>» que el negocio puede insertar en su web.
+
+- [acero-inoxidable.co/provincias/](https://acero-inoxidable.co/provincias/)
+- [ayuno-intermitente.com/provincias/](https://ayuno-intermitente.com/provincias/)
+- [guia-cafe.com/provincias/](https://guia-cafe.com/provincias/)
+- [guia-luz-azul.com/provincias/](https://guia-luz-azul.com/provincias/)
+- [mejoresvitaminas.com/provincias/](https://mejoresvitaminas.com/provincias/)
+- [piscinasal.com/provincias/](https://piscinasal.com/provincias/)
+- [running-facil.com/provincias/](https://running-facil.com/provincias/)
+- [te-matcha.com/provincias/](https://te-matcha.com/provincias/)
+- [gafasrojas.com/provincias/](https://gafasrojas.com/provincias/)
 
 ## Licencia y cita
 
